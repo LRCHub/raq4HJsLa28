@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シュガー",
+  "base_artist": "Maroon 5",
+  "createdAt": "2025-12-25T17:01:15.239068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュガー(feat.ウィンター)",
+      "artist": "フロー・ライダー",
+      "has_synced": true,
+      "path": "select/01_シュガー(feat.ウィンター)_フロー・ライダー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シュガー",
+      "artist": "Fleshgod Apocalypse",
+      "has_synced": true,
+      "path": "select/02_シュガー_Fleshgod_Apocalypse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シュガー",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/03_シュガー_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シュガー・ラッシュ(Sugar Rush)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_シュガー・ラッシュ(Sugar_Rush)_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Sugar_Maroon_5.txt"
+    }
+  ]
+}
